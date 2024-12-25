@@ -1,8 +1,7 @@
-# Windows-DR-Scripts
+# Windows-Disaster-Recovery-Scripts 
 
 This repository contains a collection of PowerShell scripts designed to facilitate disaster recovery on Windows platforms. These scripts help automate various tasks after a failover or disaster scenario.
 
----
 
 ## Scripts
 
